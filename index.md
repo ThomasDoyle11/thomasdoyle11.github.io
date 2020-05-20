@@ -45,6 +45,28 @@ public bool isOdd(int input)
 }
 ```
 
+### Exert from Competition.cs
+
+Code explaining how the 'competitiveness' of a Competition is calculated. The 'competitiveness' of a Competition is measurement of the variation in 'battle power' of the Squadrons within it, with 0 being the least competitive and 100 being the most.
+
+As per this code, the only way to achieve minimal 'competitiveness' (0) would be to have a Competition consisting solely of one Squadron with maximum 'battle power' (100) and one Squadron with minimum 'battle power' (0), which makes sense from a logical standpoint as this would be the least compeitive Competition possible.
+
+Similarly, to achieve maxmimum 'competitiveness', every Squadron involved in the Competition would have to have equal 'battle power', and again this makes sense and this be the most competitive Competition possible, regardless of the 'battle power' of the Squadrons.
+
+```cs
+    // Competitiveness of the Competition (0 - 100)
+    [SerializeField]
+    private int _competitiveness;
+    public int competitiveness { get { return _competitiveness; } }
+    public void SetCompetitiveness()
+    {
+        float mean = (float)squadrons.Select(o => o.battlePower).Average();
+        float squareMean = squadrons.Select(o => Mathf.Pow(o.battlePower, 2)).Average();
+        float sd = Mathf.Pow(squareMean - Mathf.Pow(mean, 2), 0.5f);
+        _competitiveness = (int)(100 - 2 * sd);
+    }
+    ```
+
 #### Header 4
 
 *   This is an unordered list following a header.
