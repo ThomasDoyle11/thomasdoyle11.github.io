@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to another page](https://github.com/ThomasDoyle11/medieval_battle_management_sim/blob/master/classes/Competition.cs).
 
 There should be whitespace between paragraphs.
 
