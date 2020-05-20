@@ -65,7 +65,7 @@ Similarly, to achieve maxmimum 'competitiveness', every Squadron involved in the
         float sd = Mathf.Pow(squareMean - Mathf.Pow(mean, 2), 0.5f);
         _competitiveness = (int)(100 - 2 * sd);
     }
-    ```
+```
 
 #### Header 4
 
