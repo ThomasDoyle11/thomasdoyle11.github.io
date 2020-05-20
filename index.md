@@ -37,6 +37,14 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
+```cs
+// C# code with syntax highlighting.
+public bool isOdd(int input)
+{
+  return input % 2 == 1;
+}
+```
+
 #### Header 4
 
 *   This is an unordered list following a header.
