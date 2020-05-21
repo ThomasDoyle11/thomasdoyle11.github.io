@@ -45,7 +45,7 @@ public bool isOdd(int input)
 }
 ```
 
-### Exert from Competition.cs
+### Excerpt from Competition.cs
 
 Code explaining how the 'competitiveness' of a Competition is calculated. The 'competitiveness' of a Competition is measurement of the variation in 'battle power' of the Squadrons within it, with 0 being the least competitive and 100 being the most.
 
