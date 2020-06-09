@@ -6,6 +6,9 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another ergsrgsr page](https://github.com/ThomasDoyle11/medieval_battle_management_sim/blob/master/classes/Competition.cs).
 
+[Link to further down the page page](#Header 1).
+
+
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
