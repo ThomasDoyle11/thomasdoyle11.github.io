@@ -3,10 +3,10 @@ layout: default
 ---
 
 # Hey y'all
-[Overview](https://https://thomasdoyle11.github.io/)
-[Medieval Battle Management Simulator](https://https://thomasdoyle11.github.io/medieval_battle_management_sim/).
-[Orbit](https://https://thomasdoyle11.github.io/orbit/).
-[WhatsApp Chat Analyser](https://https://thomasdoyle11.github.io/whatsapp_chat_analyser/).
+[Overview](https://thomasdoyle11.github.io/)
+[Medieval Battle Management Simulator](https://thomasdoyle11.github.io/medieval_battle_management_sim/).
+[Orbit](https://thomasdoyle11.github.io/orbit/).
+[WhatsApp Chat Analyser](https://thomasdoyle11.github.io/whatsapp_chat_analyser/).
 
 # Overview
 
