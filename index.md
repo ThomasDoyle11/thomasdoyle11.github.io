@@ -69,4 +69,4 @@ I am looking for full-time or contract work in all aspects of game development, 
 
 ## In Closing
 
-If any of the above information is unclear to you or you have any questions, please don't hesitate to contact me at the email provide above, or better still, invite me to an interview where we can have a more in-depth discussion.
+If any of the above information is unclear to you or you have any questions, please don't hesitate to contact me at the email provided above, or better still, invite me to an interview where we can have a more in-depth discussion.
