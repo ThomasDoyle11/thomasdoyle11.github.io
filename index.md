@@ -15,6 +15,8 @@ layout: default
 - [Education](#Education)
 - [Experience](#Experience)
 - [Employment](#Employment)
+- [References](#References)
+- [In Closing](#In-Closing)
 
 ## Contact Details
 - **E-mail**: thomasdoyle09@gmail.com
@@ -65,5 +67,7 @@ For more information about me, see below in order of importance (in my humble op
 
 ## References
 - Available upon request
+
+## In Closing
 
 If any of the above information is unclear to you or you have any questions, please don't hesitate to contact me at the email provide above, or better still, invite me to an interview where we can have a more in-depth discussion.
