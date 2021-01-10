@@ -8,13 +8,13 @@ layout: default
 
 # Overview
 
--- [Intro](#Intro)
--- [Looking For](#Looking-For)
--- [Skills](#Skills)
--- [Hobbies](#Hobbies)
--- [Education](#Education)
--- [Experience](#Experience)
--- [Employment](#Employment)
+- [Intro](#Intro)
+- [Looking For](#Looking-For)
+- [Skills](#Skills)
+- [Hobbies](#Hobbies)
+- [Education](#Education)
+- [Experience](#Experience)
+- [Employment](#Employment)
 
 ## Contact Details
 - **E-mail**: thomasdoyle09@gmail.com
