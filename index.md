@@ -18,8 +18,10 @@ I have excelled at Maths from a young age, but it wasn't until I was in Universi
 ## Looking For
 
 I am looking for full-time or contract work in all aspects of game development, design and programming.
+---
 
 For more information about me, see below in order of importance (in my humble opinion).
+---
 
 ## Skills
 
