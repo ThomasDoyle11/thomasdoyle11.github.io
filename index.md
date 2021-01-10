@@ -4,7 +4,7 @@ layout: default
 
 ## Personal Projects
 
-[Medieval Battle Management Simulator](https://thomasdoyle11.github.io/medieval_battle_management_sim/) | [Orbit](https://thomasdoyle11.github.io/orbit/) | [WhatsApp Chat Analyser](https://thomasdoyle11.github.io/whatsapp_chat_analyser/)
+[Medieval Battle Management Simulator](https://thomasdoyle11.github.io/medieval_battle_management_sim/) | [Orbit](https://thomasdoyle11.github.io/orbit/) | [Castle Kittens](https://thomasdoyle11.github.io/castle_kittens/) | [WhatsApp Chat Analyser](https://thomasdoyle11.github.io/whatsapp_chat_analyser/)
 
 # Overview
 
