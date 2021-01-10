@@ -8,7 +8,7 @@ layout: default
 
 # Overview
 
---[Intro](##Intro)
+-- [Intro](##intro)
 
 ## Contact Details
 - **E-mail**: thomasdoyle09@gmail.com
