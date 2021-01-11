@@ -2,6 +2,10 @@
 layout: default
 ---
 
+## Contact Details
+
+- **E-mail**: thomasdoyle09@gmail.com
+
 ## Personal Projects
 
 The following links will take you directly to Github repos containing excerpts of data and assets from the given project. The README.md file will attempt to give a rundown of what each folder contains, but feel free to peruse the files and ask questions (and feel free to provide feedback on anything that could be improved).
@@ -21,9 +25,6 @@ Many of the tools are not user-friendly as they were made for my personal use, b
 - [Employment](#Employment)
 - [References](#References)
 - [In Closing](#In-Closing)
-
-## Contact Details
-- **E-mail**: thomasdoyle09@gmail.com
 
 ## Intro 
 
@@ -54,8 +55,8 @@ I am looking for full-time or contract work in all aspects of game development, 
 
 ## Education
 
-- 1st Class MMath Mathematics Degree with Honours - University of Nottingham
-- 1st Class MSc Computer Science Degree with Honours - University of Nottingham
+- 1st Class MMath Mathematics Degree with Honours - University of Nottingham (**2013 - 2017**)
+- 1st Class MSc Computer Science Degree with Honours - University of Nottingham (**2017 - 2018**)
 
 ## Experience
 
