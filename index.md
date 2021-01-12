@@ -4,15 +4,15 @@ layout: default
 
 # Portfolio
 
-- [Intro](#Intro)
-- [Looking For](#Looking-For)
-- [Skills](#Skills)
-- [Hobbies](#Hobbies)
-- [Education](#Education)
-- [Experience](#Experience)
-- [Employment](#Employment)
-- [References](#References)
-- [In Closing](#In-Closing)
+- [Intro](#intro)
+- [Looking For](#looking-for)
+- [Skills](#skills)
+- [Hobbies](#hobbies)
+- [Education](#education)
+- [Experience](#experience)
+- [Employment](#employment)
+- [References](#references)
+- [In Closing](#in-closing)
 
 ## Contact Details
 
