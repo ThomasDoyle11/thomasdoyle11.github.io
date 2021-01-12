@@ -10,7 +10,7 @@ layout: default
 
 ## Personal Projects
 
-The following links will take you directly to Github repos containing excerpts of data and assets from the given project. The README.md file will attempt to give a rundown of what each folder contains, but feel free to peruse the files and ask questions (and feel free to provide feedback on anything that could be improved).
+The following links will take you directly to Github repos containing excerpts of data and assets from the given project. The README.md files in each area will attempt to give a rundown of what each folder contains, but feel free to peruse the files and ask questions (and feel free to provide feedback on anything that could be improved).
 
 Many of the tools are not user-friendly as they were made for my personal use, but effort has been made to make them more understandable, and explanations are given.
 
