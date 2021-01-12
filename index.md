@@ -28,6 +28,18 @@ Many of the tools are not user-friendly as they were made for my personal use, b
 |:-:|:-:|:-:|:-:|
 | <img width="200" src="assets/images/medieval_sim_icon.png"> | <img width="200" src="assets/images/orbit_icon.png"> | <img width="200" src="assets/images/castle_kittens_icon.png"> | <img width="200" src="assets/images/medieval_sim_icon.png"> |
 
+# Overview
+
+- [Intro](#intro)
+- [Looking For](#looking-for)
+- [Skills](#skills)
+- [Hobbies](#hobbies)
+- [Education](#education)
+- [Experience](#experience)
+- [Employment](#employment)
+- [References](#references)
+- [In Closing](#in-closing)
+
 ## Intro 
 
 _skip if you don't want a summation of the past 5 years of my life_
