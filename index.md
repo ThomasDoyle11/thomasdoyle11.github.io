@@ -4,6 +4,16 @@ layout: default
 
 # Portfolio
 
+- [Intro](#Intro)
+- [Looking For](#Looking-For)
+- [Skills](#Skills)
+- [Hobbies](#Hobbies)
+- [Education](#Education)
+- [Experience](#Experience)
+- [Employment](#Employment)
+- [References](#References)
+- [In Closing](#In-Closing)
+
 ## Contact Details
 
 - **E-mail**: thomasdoyle09@gmail.com
@@ -17,18 +27,6 @@ Many of the tools are not user-friendly as they were made for my personal use, b
 | [**Medieval Battle Management Simulator**](https://github.com/ThomasDoyle11/medieval_battle_management_sim) | [**Orbit**](https://github.com/ThomasDoyle11/orbit) | [**Castle Kittens**](https://github.com/ThomasDoyle11/castle_kittens/) | [**WhatsApp Chat Analyser**](https://github.com/ThomasDoyle11/whatsapp_chat_analyser/) |
 |:-:|:-:|:-:|:-:|
 | <img width="200" src="assets/images/medieval_sim_icon.png"> | <img width="200" src="assets/images/orbit_icon.png"> | <img width="200" src="assets/images/castle_kittens_icon.png"> | <img width="200" src="assets/images/medieval_sim_icon.png"> |
-
-# Overview
-
-- [Intro](#Intro)
-- [Looking For](#Looking-For)
-- [Skills](#Skills)
-- [Hobbies](#Hobbies)
-- [Education](#Education)
-- [Experience](#Experience)
-- [Employment](#Employment)
-- [References](#References)
-- [In Closing](#In-Closing)
 
 ## Intro 
 
