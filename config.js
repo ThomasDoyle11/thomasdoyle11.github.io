@@ -1,1 +1,0 @@
-"colors.background": "#000000",
