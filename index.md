@@ -14,9 +14,9 @@ The following links will take you directly to Github repos containing excerpts o
 
 Many of the tools are not user-friendly as they were made for my personal use, but effort has been made to make them more understandable, and explanations are given.
 
-| z | zff | z | z |
+| [**Medieval Battle Management Simulator**](https://github.com/ThomasDoyle11/medieval_battle_management_sim) | [**Orbit**](https://github.com/ThomasDoyle11/orbit) | [**Castle Kittens**](https://github.com/ThomasDoyle11/castle_kittens/) | [**WhatsApp Chat Analyser**](https://github.com/ThomasDoyle11/whatsapp_chat_analyser/) |
 |:-:|:-:|:-:|:-:|
-| z | z | z | z |
+| <img width="200" src="assets/images/medieval_sim_icon.png"> | <img width="200" src="assets/images/orbit_icon.png"> | <img width="200" src="assets/images/castle_kittens_icon.png"> | <img width="200" src="assets/images/medieval_sim_icon.png"> |
 
 # Overview
 
