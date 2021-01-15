@@ -35,7 +35,7 @@ Many of the tools are not user-friendly as they were made for my personal use, b
 
 _skip if you don't want a summation of the past 5 years of my life_
 
-I have excelled at Maths from a young age, but it wasn't until I was in University at the age of 20 that I realised I was specifically interested in coding and programming. More specifically, I was interested game development, but for a long time I thought that was an unattainable dream. However, after 5 years of working on my own projects and reaching the hurdles of apsects I struggle with, such as asset and UI design, I feel I have gained enough skills and would benefit from working in a team where I could exercise those skills in which I excel, practice those which I struggle with, and leave that which I am terrible at to the experts (after all, working in a team is all about recognising and capitalising on people's strengths, but I'm always happy to gain new skills).
+I have excelled at Maths from a young age, but it wasn't until I was in University at the age of 20 that I realised I was specifically interested in coding and programming. More specifically, I was interested in game development, but for a long time I thought that was an unattainable dream. However, after 5 years of working on my own projects and reaching the hurdles of apsects I struggle with, such as asset and UI design, I feel I have gained enough skills and would benefit from working in a team where I could exercise those skills in which I excel, practice those which I struggle with, and leave that which I am terrible at to the experts (after all, working in a team is all about recognising and capitalising on people's strengths, but I'm always happy to gain new skills).
 
 ## Looking For
 
