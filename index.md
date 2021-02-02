@@ -55,6 +55,7 @@ I am looking for full-time or contract work in all aspects of game development, 
 - Games (board, video, making my own)
 - Programming Projects (see table at top of page for examples)
 - Sports (tennis, rugby, running, cycling, swimming)
+- Hiking
 - Learning / practicing conversational French
 - Charitable Work (£1000 collected in city centres for Meningitis Research, marathon)
 
