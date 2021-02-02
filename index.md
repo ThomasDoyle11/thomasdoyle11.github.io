@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 # Portfolio
 
 - [Contact Details](#contact-details)
