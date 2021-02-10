@@ -29,6 +29,7 @@ Many of the tools are not user-friendly as they were made for my personal use, b
 |:-:|:-:|:-:|:-:|
 | <img width="90%" src="assets/images/medieval_sim_icon.png"> | <img width="90%" src="assets/images/orbit_icon.png"> | <img width="90%" src="assets/images/castle_kittens_icon.png"> | <img width="90%" src="assets/images/whatsapp_chat_analyser_icon.png"> |
 | C#, Unity, Python, Relational Database | C#, Unity, Shaders, Procedural, Optimisation | C#, Unity, Asset Development | Python, Data Manipulation |
+| A medieval strategy and management simulation game | A procedural space endless running game | A turn-based board game of gaining points and attacking players | A tool for analysing and exploring data from WhatsApp conversations |
 
 ## Intro 
 
