@@ -3,8 +3,6 @@ layout: default
 ---
 # Portfolio
 
-### Hi, I'm Tom Doyle. I'm a 25-year-old Software Engineer who make small game projects in my free time and I'd like to break into the video games industry.
-
 - [Contact Details](#contact-details)
 - [Personal Projects](#personal-projects)
 - [Intro](#intro)
