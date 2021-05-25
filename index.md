@@ -72,7 +72,7 @@ I am looking for full-time or contract work in all aspects of game development, 
 
 ## Employment
 
-- **June 2016 - Sept 2016**: Data Science Intern at University of Leicester Medical in Medical Research
+- **June 2016 - Sept 2016**: Data Science Intern at University of Leicester in Medical Research
 - **Sept 2018 - Present**: Software Engineer at Rolls Royce plc in Controls Systems
 
 ## References
