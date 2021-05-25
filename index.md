@@ -67,7 +67,7 @@ I am looking for full-time or contract work in all aspects of game development, 
 
 - Working with Python and C# in the Unity Engine on my own Programming Projects (see table at top of page for examples)
 - Working in 4 different software teams over 18 months to aid engine projects (as part of a Graduate Scheme, I wasn't bounced around)
-- _(Currently, for 9 months)_ Developing scripts in Python for engine verification
+- _(Currently, for 13 months)_ Developing scripts in Python for engine verification
 - The skills I've gained in working in a team during my 2+ years at Rolls Royce can't be understated and will certainly carry through to any future employment in the games development industry
 
 ## Employment
